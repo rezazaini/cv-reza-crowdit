@@ -1,0 +1,22 @@
+.intro {
+  background-image: linear-gradient(rgb(100, 162, 216),rgb(195, 219, 240),#fcfafa)  ;
+}
+
+.about {
+  background-image: linear-gradient(#fcfafa,rgb(195, 219, 240),rgb(195, 219, 240),rgb(195, 219, 240));
+}
+.tools {
+  background-image: linear-gradient(rgb(195, 219, 240),#fcfafa,#fcfafa,#fcfafa)  ;
+  
+}
+.contact {
+  background-image: linear-gradient(rgb(195, 219, 240),rgb(100, 162, 216),rgb(100, 162, 216));
+}
+.project {
+  background-image: linear-gradient(#fcfafa,rgb(195, 219, 240),rgb(195, 219, 240),rgb(195, 219, 240));
+}
+
+.footer {
+  background-color: rgb(34, 78, 117);
+}
+ 
